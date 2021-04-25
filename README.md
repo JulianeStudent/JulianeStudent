@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @JulianeStudent
 - 👀 I’m interested in game programming andlearning and teaching programming.
-- 🌱 I’m currently learning C# fro Unity in addition to attending Computer Science College.
+- 🌱 I’m currently learning C# for Unity in addition to attending Computer Science College.
 - 📫 How to reach me by email julianekdossantoss@gmail.com
 
 <!---
