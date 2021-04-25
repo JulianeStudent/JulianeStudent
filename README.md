@@ -1,3 +1,5 @@
+**Study forever Improve**
+
 - 👋 Hi, I’m @JulianeStudent
 - 👀 I’m interested in game programming andlearning and teaching programming.
 - 🌱 I’m currently learning C# fro Unity in addition to attending Computer Science College.
